@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Destiny Matrix points calculation in PHP",
   "license": "MIT",
-  "homepage": "https://destiny-matrix.cc/",
+  "homepage": "https://destiny-matrix.cc/es/",
   "require": {
     "php": ">=8.1"
   },
